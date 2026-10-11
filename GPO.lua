@@ -1089,5 +1089,3 @@ end)
 
 notify("VENICE | GPO","Loaded. RightShift toggles the menu.")
 print("[VENICE | GPO] Loaded on " .. tostring(LP.Name) .. " | Full auto suite | Xeno-safe")
-
-add script
